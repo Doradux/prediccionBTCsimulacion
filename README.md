@@ -40,5 +40,5 @@ Este proyecto representa el trabajo final del curso, en el que hemos desarrollad
 - Presentar conclusiones basadas en los resultados.
 
 ---
-## Presentación
+## 👨‍🎓 Presentación de Google
 https://docs.google.com/presentation/d/1p7WQuvDDhLKhv3z3V9aY-G3_mfQVwmweGoBeCpyr_n8/edit?usp=sharing
