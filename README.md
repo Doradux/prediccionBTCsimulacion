@@ -11,7 +11,7 @@ Este proyecto representa el trabajo final del curso, en el que hemos desarrollad
 - ✅ **Hito 0**: Presentación el problema, flujo, ELT y obtencion de datos.
 - 🧼 **Hito 1**: Limpieza, preparación y análisis exploratorio de los datos.
 - 🧠 **Hito 2**: Selección y entrenamiento de modelos de Machine Learning.
-- 📈 **Hito 3**: Evaluación, ajuste, análisis y conclusiones del modelo final.
+- 📈 **Hito 3**: Probar, mejorar el modelo y conclusiones finales..
 
 ---
 
